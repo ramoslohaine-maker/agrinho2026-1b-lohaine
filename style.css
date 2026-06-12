@@ -21,3 +21,12 @@ margin:0 15px
 font-weigh: 600;
 transition: color 0.2s;
 }
+
+.problema{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 5%;
+    min-height: 80vh;
+    gap: 30px;
+}
